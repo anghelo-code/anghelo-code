@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ITEP Travel<br>🌱 I’m currently learning react js <br>💬 Ask me about React Js <br>📫 How to reach me anghelo.alagon.02@gmail.com
+🔭 I’m currently working on SkyNet<br>🌱 I’m currently learning react js <br>💬 Ask me about React Js <br>📫 How to reach me anghelo.alagon.02@gmail.com
 
 
 ## 🌐 Socials:
