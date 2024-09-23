@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SkyNet<br>🌱 I’m currently learning react js <br>💬 Ask me about React Js <br>📫 How to reach me anghelo.alagon.02@gmail.com
+🔭 I’m currently learning next js <br>💬 Ask me about React Js <br>📫 How to reach me anghelo.alagon.02@gmail.com
 
 
 ## 🌐 Socials:
@@ -20,6 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
+ I’m currently working on SkyNet<br>🌱
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
